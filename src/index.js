@@ -37,7 +37,7 @@
 // console.log(val4);
 
 //constで定義した配列はプロパテぃの変更が可能
-const val5 = ["dog", "cat"];
-val5[0] = "cat";
-val5.push("monkey");
-console.log(val5);
+// const val5 = ["dog", "cat"];
+// val5[0] = "cat";
+// val5.push("monkey");
+// console.log(val5);
